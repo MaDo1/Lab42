@@ -28,4 +28,8 @@ return(amount * price);
 public void printProduct() {
 System.out.printf("Product %s, price %4.1f and balance %d pcs", name,price,amount);
 }
+
+public changeBalance(int newvalue) {
+	return();
+}
 }
