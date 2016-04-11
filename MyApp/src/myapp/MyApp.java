@@ -29,7 +29,11 @@ public void printProduct() {
 System.out.printf("Product %s, price %4.1f and balance %d pcs", name,price,amount);
 }
 
+<<<<<<< HEAD
 public changeBalance(int newvalue) {
 	return();
+=======
+public void changePrice(){
+>>>>>>> b1
 }
 }
