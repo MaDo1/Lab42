@@ -1,0 +1,2 @@
+myapp.Product
+myapp.MyApp
